@@ -302,7 +302,8 @@ i {
   }
   #priceTable td {
     display: 15px;
-    text-align: right;
+    text-align: center
+    ;
   }
   #priceTable td::before {
     content: attr(data-label);

@@ -9,11 +9,12 @@ h1{
 }
 .area-atendimento {
     flex: 1;
-display: flex;
-background-color: #06121e;
-border-radius: 8px;
-box-shadow: 0px -1px 17px -4px rgba(61, 7, 7, 0.5);
-overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    background-color: #06121e;
+    border-radius: 8px;
+    box-shadow: 0px -1px 17px -4px rgba(61, 7, 7, 0.5);
+    overflow: hidden;
 }
 .profissional {
     background-color: #06121e#f0f0f0;

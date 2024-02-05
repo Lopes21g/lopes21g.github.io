@@ -6,7 +6,7 @@ h1{
     background-color: #06121e;
     color: beige;
     text-align: center;
-    padding: 5px;
+    padding: 12px;
     border-radius: 8px;
   
 
@@ -21,7 +21,7 @@ h1{
     
 .profissional {
     background-color: #06121e;
-    padding: 10px;
+    padding: 50px;
     border-radius: 5px;
     text-align: center;
 }

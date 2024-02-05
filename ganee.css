@@ -1,17 +1,11 @@
-body {
-    font-family: Arial, sans-serif;
-    padding: 400px;
-    width: 400px;
-    heigth: 400px;
-    
-    
-        }
+
 h1{
     background-color: #06121e;
     color: beige;
     text-align: center;
     padding: 5px;
     border-radius: 8px;
+    margin-top: 100px;
 
 
 }
@@ -20,7 +14,7 @@ h1{
   justify-content: center;
   align-items: center;
   gap: 16px;
-  padding: 0 44px 34px 44px;
+  padding: 0 44px 34px 44p;
 .profissional {
     background-color: #06121e;
     padding: 10px;
